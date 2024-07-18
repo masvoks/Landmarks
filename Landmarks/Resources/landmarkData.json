@@ -1,0 +1,194 @@
+[
+    {
+        "name": "Gomel Park",
+        "category": "Parks",
+        "city": "Gomel",
+        "state": "Gomel Region",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Rumyantsev-Paskevich Residence",
+        "coordinates": {
+            "longitude": 52.422307,
+            "latitude": 31.016644
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu eros lorem. Curabitur non urna iaculis, pulvinar eros et, imperdiet turpis. Aenean ex nunc, sagittis vel quam ac, lacinia posuere dui. Curabitur vel lorem ac enim ullamcorper feugiat a nec ligula. Nulla eget sem vestibulum, sodales lorem vel, egestas magna. Nulla laoreet, leo in convallis pellentesque, turpis nisl volutpat mauris, at dictum risus nisi at leo. Duis at massa a nulla sodales efficitur vel nec sapien. Suspendisse dolor elit, consequat vel consequat vel, accumsan vel eros. Phasellus at est in turpis laoreet ornare eget gravida urna. Donec a porttitor leo. Pellentesque faucibus nisi vel libero semper aliquam. Integer vel varius nisi. Donec vel diam imperdiet, blandit lacus nec, commodo quam. Praesent ut nulla non magna commodo elementum.",
+        "imageName": "gomelpark"
+    },
+    {
+        "name": "Gerard Manor",
+        "category": "Parks",
+        "city": "Demyanki",
+        "state": "Gomel Region",
+        "id": 1002,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Manor in The Resettlement Zone",
+        "coordinates": {
+            "longitude": 52.529126,
+            "latitude": 31.471513
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu eros lorem. Curabitur non urna iaculis, pulvinar eros et, imperdiet turpis. Aenean ex nunc, sagittis vel quam ac, lacinia posuere dui. Curabitur vel lorem ac enim ullamcorper feugiat a nec ligula. Nulla eget sem vestibulum, sodales lorem vel, egestas magna. Nulla laoreet, leo in convallis pellentesque, turpis nisl volutpat mauris, at dictum risus nisi at leo. Duis at massa a nulla sodales efficitur vel nec sapien. Suspendisse dolor elit, consequat vel consequat vel, accumsan vel eros. Phasellus at est in turpis laoreet ornare eget gravida urna. Donec a porttitor leo. Pellentesque faucibus nisi vel libero semper aliquam. Integer vel varius nisi. Donec vel diam imperdiet, blandit lacus nec, commodo quam. Praesent ut nulla non magna commodo elementum..",
+        "imageName": "gerardmanor"
+    },
+    {
+        "name": "Mir Castle",
+        "category": "Castles",
+        "city": "Mir",
+        "state": "Grodno Region",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Korelichi District Park",
+        "coordinates": {
+            "longitude": 53.451295,
+            "latitude": 26.473257
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu eros lorem. Curabitur non urna iaculis, pulvinar eros et, imperdiet turpis. Aenean ex nunc, sagittis vel quam ac, lacinia posuere dui. Curabitur vel lorem ac enim ullamcorper feugiat a nec ligula. Nulla eget sem vestibulum, sodales lorem vel, egestas magna. Nulla laoreet, leo in convallis pellentesque, turpis nisl volutpat mauris, at dictum risus nisi at leo. Duis at massa a nulla sodales efficitur vel nec sapien. Suspendisse dolor elit, consequat vel consequat vel, accumsan vel eros. Phasellus at est in turpis laoreet ornare eget gravida urna. Donec a porttitor leo. Pellentesque faucibus nisi vel libero semper aliquam. Integer vel varius nisi. Donec vel diam imperdiet, blandit lacus nec, commodo quam. Praesent ut nulla non magna commodo elementum.",
+        "imageName": "mircastle"
+    },
+    {
+        "name": "Nativity Virgin",
+        "category": "Churches",
+        "city": "Murovanka",
+        "state": "Grodno Region",
+        "id": 1004,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Church of the Nativity of the Virgin",
+        "coordinates": {
+            "longitude": 53.697636,
+            "latitude": 25.000033
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu eros lorem. Curabitur non urna iaculis, pulvinar eros et, imperdiet turpis. Aenean ex nunc, sagittis vel quam ac, lacinia posuere dui. Curabitur vel lorem ac enim ullamcorper feugiat a nec ligula. Nulla eget sem vestibulum, sodales lorem vel, egestas magna. Nulla laoreet, leo in convallis pellentesque, turpis nisl volutpat mauris, at dictum risus nisi at leo. Duis at massa a nulla sodales efficitur vel nec sapien. Suspendisse dolor elit, consequat vel consequat vel, accumsan vel eros. Phasellus at est in turpis laoreet ornare eget gravida urna. Donec a porttitor leo. Pellentesque faucibus nisi vel libero semper aliquam. Integer vel varius nisi. Donec vel diam imperdiet, blandit lacus nec, commodo quam. Praesent ut nulla non magna commodo elementum.",
+        "imageName": "nativityvirgin"
+    },
+    {
+        "name": "Brest Fortress",
+        "category": "Castles",
+        "city": "Brest",
+        "state": "Brest Region",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Fortification and Large-scale Museum",
+        "coordinates": {
+            "longitude": 52.085603,
+            "latitude": 23.655606
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu eros lorem. Curabitur non urna iaculis, pulvinar eros et, imperdiet turpis. Aenean ex nunc, sagittis vel quam ac, lacinia posuere dui. Curabitur vel lorem ac enim ullamcorper feugiat a nec ligula. Nulla eget sem vestibulum, sodales lorem vel, egestas magna. Nulla laoreet, leo in convallis pellentesque, turpis nisl volutpat mauris, at dictum risus nisi at leo. Duis at massa a nulla sodales efficitur vel nec sapien. Suspendisse dolor elit, consequat vel consequat vel, accumsan vel eros. Phasellus at est in turpis laoreet ornare eget gravida urna. Donec a porttitor leo. Pellentesque faucibus nisi vel libero semper aliquam. Integer vel varius nisi. Donec vel diam imperdiet, blandit lacus nec, commodo quam. Praesent ut nulla non magna commodo elementum.",
+        "imageName": "brestfortress"
+    },
+    {
+        "name": "Belovezhskaya Pushcha",
+        "category": "Parks",
+        "city": "Kamenyuki",
+        "state": "Brest Region",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Largest Forest in Europe",
+        "coordinates": {
+            "longitude": 52.425800,
+            "latitude": 23.503800
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu eros lorem. Curabitur non urna iaculis, pulvinar eros et, imperdiet turpis. Aenean ex nunc, sagittis vel quam ac, lacinia posuere dui. Curabitur vel lorem ac enim ullamcorper feugiat a nec ligula. Nulla eget sem vestibulum, sodales lorem vel, egestas magna. Nulla laoreet, leo in convallis pellentesque, turpis nisl volutpat mauris, at dictum risus nisi at leo. Duis at massa a nulla sodales efficitur vel nec sapien. Suspendisse dolor elit, consequat vel consequat vel, accumsan vel eros. Phasellus at est in turpis laoreet ornare eget gravida urna. Donec a porttitor leo. Pellentesque faucibus nisi vel libero semper aliquam. Integer vel varius nisi. Donec vel diam imperdiet, blandit lacus nec, commodo quam. Praesent ut nulla non magna commodo elementum.",
+        "imageName": "belovezhskaya"
+    },
+    {
+        "name": "Nesvizh Castle",
+        "category": "Castles",
+        "city": "Nesvizh",
+        "state": "Minsk Region",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Family Nest of The Radziwills",
+        "coordinates": {
+            "longitude": 53.222635,
+            "latitude": 26.692563
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu eros lorem. Curabitur non urna iaculis, pulvinar eros et, imperdiet turpis. Aenean ex nunc, sagittis vel quam ac, lacinia posuere dui. Curabitur vel lorem ac enim ullamcorper feugiat a nec ligula. Nulla eget sem vestibulum, sodales lorem vel, egestas magna. Nulla laoreet, leo in convallis pellentesque, turpis nisl volutpat mauris, at dictum risus nisi at leo. Duis at massa a nulla sodales efficitur vel nec sapien. Suspendisse dolor elit, consequat vel consequat vel, accumsan vel eros. Phasellus at est in turpis laoreet ornare eget gravida urna. Donec a porttitor leo. Pellentesque faucibus nisi vel libero semper aliquam. Integer vel varius nisi. Donec vel diam imperdiet, blandit lacus nec, commodo quam. Praesent ut nulla non magna commodo elementum.",
+        "imageName": "nesvizhcastle"
+    },
+    {
+        "name": "Nalibokskaya Pushcha",
+        "category": "Parks",
+        "city": "Volozhin",
+        "state": "Minsk Region",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Pushcha is surrounded by three rivers",
+        "coordinates": {
+            "longitude": 53.530400,
+            "latitude": 26.263300
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu eros lorem. Curabitur non urna iaculis, pulvinar eros et, imperdiet turpis. Aenean ex nunc, sagittis vel quam ac, lacinia posuere dui. Curabitur vel lorem ac enim ullamcorper feugiat a nec ligula. Nulla eget sem vestibulum, sodales lorem vel, egestas magna. Nulla laoreet, leo in convallis pellentesque, turpis nisl volutpat mauris, at dictum risus nisi at leo. Duis at massa a nulla sodales efficitur vel nec sapien. Suspendisse dolor elit, consequat vel consequat vel, accumsan vel eros. Phasellus at est in turpis laoreet ornare eget gravida urna. Donec a porttitor leo. Pellentesque faucibus nisi vel libero semper aliquam. Integer vel varius nisi. Donec vel diam imperdiet, blandit lacus nec, commodo quam. Praesent ut nulla non magna commodo elementum.",
+        "imageName": "nalibokskaya"
+    },
+    {
+        "name": "Bobruisk Fortress",
+        "category": "Castles",
+        "city": "Bobruisk",
+        "state": "Mogilev Region",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Served as a Prison",
+        "coordinates": {
+            "longitude": 53.141361,
+            "latitude": 29.241188
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu eros lorem. Curabitur non urna iaculis, pulvinar eros et, imperdiet turpis. Aenean ex nunc, sagittis vel quam ac, lacinia posuere dui. Curabitur vel lorem ac enim ullamcorper feugiat a nec ligula. Nulla eget sem vestibulum, sodales lorem vel, egestas magna. Nulla laoreet, leo in convallis pellentesque, turpis nisl volutpat mauris, at dictum risus nisi at leo. Duis at massa a nulla sodales efficitur vel nec sapien. Suspendisse dolor elit, consequat vel consequat vel, accumsan vel eros. Phasellus at est in turpis laoreet ornare eget gravida urna. Donec a porttitor leo. Pellentesque faucibus nisi vel libero semper aliquam. Integer vel varius nisi. Donec vel diam imperdiet, blandit lacus nec, commodo quam. Praesent ut nulla non magna commodo elementum.",
+        "imageName": "bobruisk"
+    },
+    {
+        "name": "Tolstoy Estate",
+        "category": "Parks",
+        "city": "Grudinovka",
+        "state": "Mogilev Region",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Count's House Tolstoy",
+        "coordinates": {
+            "longitude": 53.636041,
+            "latitude": 30.481587
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu eros lorem. Curabitur non urna iaculis, pulvinar eros et, imperdiet turpis. Aenean ex nunc, sagittis vel quam ac, lacinia posuere dui. Curabitur vel lorem ac enim ullamcorper feugiat a nec ligula. Nulla eget sem vestibulum, sodales lorem vel, egestas magna. Nulla laoreet, leo in convallis pellentesque, turpis nisl volutpat mauris, at dictum risus nisi at leo. Duis at massa a nulla sodales efficitur vel nec sapien. Suspendisse dolor elit, consequat vel consequat vel, accumsan vel eros. Phasellus at est in turpis laoreet ornare eget gravida urna. Donec a porttitor leo. Pellentesque faucibus nisi vel libero semper aliquam. Integer vel varius nisi. Donec vel diam imperdiet, blandit lacus nec, commodo quam. Praesent ut nulla non magna commodo elementum.",
+        "imageName": "tolstoyestate"
+    },
+    {
+        "name": "Saint Sophia Cathedral",
+        "category": "Churches",
+        "city": "Polotsk",
+        "state": "Vitebsk Region",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Temple Built in The 11th Century",
+        "coordinates": {
+            "longitude": 55.486394,
+            "latitude": 28.758569
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu eros lorem. Curabitur non urna iaculis, pulvinar eros et, imperdiet turpis. Aenean ex nunc, sagittis vel quam ac, lacinia posuere dui. Curabitur vel lorem ac enim ullamcorper feugiat a nec ligula. Nulla eget sem vestibulum, sodales lorem vel, egestas magna. Nulla laoreet, leo in convallis pellentesque, turpis nisl volutpat mauris, at dictum risus nisi at leo. Duis at massa a nulla sodales efficitur vel nec sapien. Suspendisse dolor elit, consequat vel consequat vel, accumsan vel eros. Phasellus at est in turpis laoreet ornare eget gravida urna. Donec a porttitor leo. Pellentesque faucibus nisi vel libero semper aliquam. Integer vel varius nisi. Donec vel diam imperdiet, blandit lacus nec, commodo quam. Praesent ut nulla non magna commodo elementum.",
+        "imageName": "saintsophia"
+    },
+    {
+        "name": "Chagall House Museum",
+        "category": "Castles",
+        "city": "Vitebsk",
+        "state": "Vitebsk Region",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Marc Chagall was born here",
+        "coordinates": {
+            "longitude": 55.200509,
+            "latitude": 30.190548
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu eros lorem. Curabitur non urna iaculis, pulvinar eros et, imperdiet turpis. Aenean ex nunc, sagittis vel quam ac, lacinia posuere dui. Curabitur vel lorem ac enim ullamcorper feugiat a nec ligula. Nulla eget sem vestibulum, sodales lorem vel, egestas magna. Nulla laoreet, leo in convallis pellentesque, turpis nisl volutpat mauris, at dictum risus nisi at leo. Duis at massa a nulla sodales efficitur vel nec sapien. Suspendisse dolor elit, consequat vel consequat vel, accumsan vel eros. Phasellus at est in turpis laoreet ornare eget gravida urna. Donec a porttitor leo. Pellentesque faucibus nisi vel libero semper aliquam. Integer vel varius nisi. Donec vel diam imperdiet, blandit lacus nec, commodo quam. Praesent ut nulla non magna commodo elementum.",
+        "imageName": "chagallhouse"
+    }
+]
